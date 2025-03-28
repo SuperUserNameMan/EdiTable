@@ -11,3 +11,7 @@ This HTML table can be sorted just by clicking over the column header of your ch
 If you rename this file `test.csv`, you can open and edit it using a spreadsheet editor.
 Once you're done updating the TSV, just add the `.html` extension back to the filename, and you can display it into your browser again.
 
+## Credits / Sources :
+
+- table sorting : https://stackoverflow.com/questions/14267781/sorting-html-table-with-javascript
+- table css : w3school
