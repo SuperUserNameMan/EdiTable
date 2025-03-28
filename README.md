@@ -14,4 +14,4 @@ Once you're done updating the TSV, just add the `.html` extension back to the fi
 ## Credits / Sources :
 
 - table sorting : https://stackoverflow.com/questions/14267781/sorting-html-table-with-javascript
-- table css : w3school
+
